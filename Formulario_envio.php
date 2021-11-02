@@ -16,19 +16,7 @@ table{
 	margin:auto;
 	left:0;
 }
-
-
-</style>
-</head>
-
-<body>
-<div class="row">
- <div class="col-lg-8 mb-5" >
-<form name="formulario_contacto" method="post" action="Enviar_mail.php">
-	<div class="form-group row">
-        <div class="col-md-6 mb-4 mb-lg-0">
- <input type="text" name="nombre" class="form-control" placeholder="Nombre">
-
+bjjojk,lokmk
 </div>
     <div class="col-md-6">
 
